@@ -1,0 +1,12 @@
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Events\IntroToEvents\IntroToEvents\bin\Debug\netcoreapp3.1\IntroToEvents.exe
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Events\IntroToEvents\IntroToEvents\bin\Debug\netcoreapp3.1\IntroToEvents.deps.json
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Events\IntroToEvents\IntroToEvents\bin\Debug\netcoreapp3.1\IntroToEvents.runtimeconfig.json
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Events\IntroToEvents\IntroToEvents\bin\Debug\netcoreapp3.1\IntroToEvents.runtimeconfig.dev.json
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Events\IntroToEvents\IntroToEvents\bin\Debug\netcoreapp3.1\IntroToEvents.dll
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Events\IntroToEvents\IntroToEvents\bin\Debug\netcoreapp3.1\IntroToEvents.pdb
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Events\IntroToEvents\IntroToEvents\obj\Debug\netcoreapp3.1\IntroToEvents.AssemblyInfoInputs.cache
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Events\IntroToEvents\IntroToEvents\obj\Debug\netcoreapp3.1\IntroToEvents.AssemblyInfo.cs
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Events\IntroToEvents\IntroToEvents\obj\Debug\netcoreapp3.1\IntroToEvents.csproj.CoreCompileInputs.cache
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Events\IntroToEvents\IntroToEvents\obj\Debug\netcoreapp3.1\IntroToEvents.dll
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Events\IntroToEvents\IntroToEvents\obj\Debug\netcoreapp3.1\IntroToEvents.pdb
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Events\IntroToEvents\IntroToEvents\obj\Debug\netcoreapp3.1\IntroToEvents.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Properties\PropertiesDemo\PropertiesDemo\bin\Debug\netcoreapp3.1\PropertiesDemo.exe
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Properties\PropertiesDemo\PropertiesDemo\bin\Debug\netcoreapp3.1\PropertiesDemo.deps.json
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Properties\PropertiesDemo\PropertiesDemo\bin\Debug\netcoreapp3.1\PropertiesDemo.runtimeconfig.json
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Properties\PropertiesDemo\PropertiesDemo\bin\Debug\netcoreapp3.1\PropertiesDemo.runtimeconfig.dev.json
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Properties\PropertiesDemo\PropertiesDemo\bin\Debug\netcoreapp3.1\PropertiesDemo.dll
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Properties\PropertiesDemo\PropertiesDemo\bin\Debug\netcoreapp3.1\PropertiesDemo.pdb
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Properties\PropertiesDemo\PropertiesDemo\obj\Debug\netcoreapp3.1\PropertiesDemo.AssemblyInfoInputs.cache
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Properties\PropertiesDemo\PropertiesDemo\obj\Debug\netcoreapp3.1\PropertiesDemo.AssemblyInfo.cs
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Properties\PropertiesDemo\PropertiesDemo\obj\Debug\netcoreapp3.1\PropertiesDemo.csproj.CoreCompileInputs.cache
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Properties\PropertiesDemo\PropertiesDemo\obj\Debug\netcoreapp3.1\PropertiesDemo.dll
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Properties\PropertiesDemo\PropertiesDemo\obj\Debug\netcoreapp3.1\PropertiesDemo.pdb
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Properties\PropertiesDemo\PropertiesDemo\obj\Debug\netcoreapp3.1\PropertiesDemo.genruntimeconfig.cache
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Properties\PropertiesDemo\PropertiesDemo\obj\Debug\netcoreapp3.1\PropertiesDemo.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Introtomembers\IntroToMembers\IntroToMembers\bin\Debug\netcoreapp3.1\IntroToMembers.exe
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Introtomembers\IntroToMembers\IntroToMembers\bin\Debug\netcoreapp3.1\IntroToMembers.deps.json
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Introtomembers\IntroToMembers\IntroToMembers\bin\Debug\netcoreapp3.1\IntroToMembers.runtimeconfig.json
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Introtomembers\IntroToMembers\IntroToMembers\bin\Debug\netcoreapp3.1\IntroToMembers.runtimeconfig.dev.json
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Introtomembers\IntroToMembers\IntroToMembers\bin\Debug\netcoreapp3.1\IntroToMembers.dll
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Introtomembers\IntroToMembers\IntroToMembers\bin\Debug\netcoreapp3.1\IntroToMembers.pdb
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Introtomembers\IntroToMembers\IntroToMembers\obj\Debug\netcoreapp3.1\IntroToMembers.AssemblyInfoInputs.cache
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Introtomembers\IntroToMembers\IntroToMembers\obj\Debug\netcoreapp3.1\IntroToMembers.AssemblyInfo.cs
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Introtomembers\IntroToMembers\IntroToMembers\obj\Debug\netcoreapp3.1\IntroToMembers.csproj.CoreCompileInputs.cache
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Introtomembers\IntroToMembers\IntroToMembers\obj\Debug\netcoreapp3.1\IntroToMembers.dll
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Introtomembers\IntroToMembers\IntroToMembers\obj\Debug\netcoreapp3.1\IntroToMembers.pdb
+C:\Users\santhi\Desktop\Introduction to c#\Members,Methods,Events,Properties\Introtomembers\IntroToMembers\IntroToMembers\obj\Debug\netcoreapp3.1\IntroToMembers.genruntimeconfig.cache
