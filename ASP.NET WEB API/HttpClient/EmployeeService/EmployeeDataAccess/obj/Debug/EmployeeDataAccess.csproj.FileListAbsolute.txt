@@ -10,3 +10,15 @@ C:\Users\santhi\Desktop\Sails\ASP.NET\EmployeeService\EmployeeDataAccess\obj\Deb
 C:\Users\santhi\Desktop\Sails\ASP.NET\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
 C:\Users\santhi\Desktop\Sails\ASP.NET\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
 C:\Users\santhi\Desktop\Sails\ASP.NET\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+C:\Users\santhi\Desktop\stepapicsharptraning-SanthiPriya\ASP.NET WEB API\HttpClient\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\santhi\Desktop\stepapicsharptraning-SanthiPriya\ASP.NET WEB API\HttpClient\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\santhi\Desktop\stepapicsharptraning-SanthiPriya\ASP.NET WEB API\HttpClient\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\santhi\Desktop\stepapicsharptraning-SanthiPriya\ASP.NET WEB API\HttpClient\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\santhi\Desktop\stepapicsharptraning-SanthiPriya\ASP.NET WEB API\HttpClient\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\santhi\Desktop\stepapicsharptraning-SanthiPriya\ASP.NET WEB API\HttpClient\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\santhi\Desktop\stepapicsharptraning-SanthiPriya\ASP.NET WEB API\HttpClient\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\santhi\Desktop\stepapicsharptraning-SanthiPriya\ASP.NET WEB API\HttpClient\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+C:\Users\santhi\Desktop\stepapicsharptraning-SanthiPriya\ASP.NET WEB API\HttpClient\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\santhi\Desktop\stepapicsharptraning-SanthiPriya\ASP.NET WEB API\HttpClient\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+C:\Users\santhi\Desktop\stepapicsharptraning-SanthiPriya\ASP.NET WEB API\HttpClient\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\santhi\Desktop\stepapicsharptraning-SanthiPriya\ASP.NET WEB API\HttpClient\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb

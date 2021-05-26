@@ -15,6 +15,7 @@ namespace EmployeeDataAccess
     
     public partial class EmployeeDBEntities : DbContext
     {
+       
         public EmployeeDBEntities()
             : base("name=EmployeeDBEntities")
         {
@@ -26,5 +27,6 @@ namespace EmployeeDataAccess
         }
     
         public virtual DbSet<Employee> Employees { get; set; }
+        public virtual DbSet<User> Users { get; set; }
     }
 }
