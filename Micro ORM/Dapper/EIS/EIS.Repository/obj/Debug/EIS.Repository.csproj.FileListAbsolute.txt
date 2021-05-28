@@ -1,0 +1,11 @@
+C:\Users\santhi\Desktop\EIS\EIS.Repository\obj\Debug\EIS.Repository.csprojAssemblyReference.cache
+C:\Users\santhi\Desktop\EIS\EIS.Repository\obj\Debug\EIS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\santhi\Desktop\EIS\EIS.Repository\bin\Debug\EIS.Repository.dll
+C:\Users\santhi\Desktop\EIS\EIS.Repository\bin\Debug\EIS.Repository.pdb
+C:\Users\santhi\Desktop\EIS\EIS.Repository\bin\Debug\Dapper.dll
+C:\Users\santhi\Desktop\EIS\EIS.Repository\bin\Debug\EIS.Models.dll
+C:\Users\santhi\Desktop\EIS\EIS.Repository\bin\Debug\EIS.Models.pdb
+C:\Users\santhi\Desktop\EIS\EIS.Repository\bin\Debug\Dapper.xml
+C:\Users\santhi\Desktop\EIS\EIS.Repository\obj\Debug\EIS.Repository.csproj.CopyComplete
+C:\Users\santhi\Desktop\EIS\EIS.Repository\obj\Debug\EIS.Repository.dll
+C:\Users\santhi\Desktop\EIS\EIS.Repository\obj\Debug\EIS.Repository.pdb

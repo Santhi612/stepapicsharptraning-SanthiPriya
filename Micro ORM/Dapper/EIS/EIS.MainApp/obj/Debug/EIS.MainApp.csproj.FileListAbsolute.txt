@@ -1,0 +1,17 @@
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\obj\Debug\EIS.MainApp.csprojAssemblyReference.cache
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\obj\Debug\EIS.MainApp.Form1.resources
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\obj\Debug\EIS.MainApp.Properties.Resources.resources
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\obj\Debug\EIS.MainApp.csproj.GenerateResource.cache
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\obj\Debug\EIS.MainApp.csproj.CoreCompileInputs.cache
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\bin\Debug\EIS.MainApp.exe.config
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\bin\Debug\EIS.MainApp.exe
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\bin\Debug\EIS.MainApp.pdb
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\bin\Debug\EIS.Models.dll
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\bin\Debug\EIS.Repository.dll
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\bin\Debug\Dapper.dll
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\bin\Debug\EIS.Models.pdb
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\bin\Debug\EIS.Repository.pdb
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\bin\Debug\Dapper.xml
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\obj\Debug\EIS.MainApp.csproj.CopyComplete
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\obj\Debug\EIS.MainApp.exe
+C:\Users\santhi\Desktop\EIS\EIS.MainApp\obj\Debug\EIS.MainApp.pdb

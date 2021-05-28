@@ -1,0 +1,6 @@
+C:\Users\santhi\Desktop\EIS\EIS.Models\bin\Debug\EIS.Models.dll
+C:\Users\santhi\Desktop\EIS\EIS.Models\bin\Debug\EIS.Models.pdb
+C:\Users\santhi\Desktop\EIS\EIS.Models\obj\Debug\EIS.Models.csprojAssemblyReference.cache
+C:\Users\santhi\Desktop\EIS\EIS.Models\obj\Debug\EIS.Models.csproj.CoreCompileInputs.cache
+C:\Users\santhi\Desktop\EIS\EIS.Models\obj\Debug\EIS.Models.dll
+C:\Users\santhi\Desktop\EIS\EIS.Models\obj\Debug\EIS.Models.pdb
